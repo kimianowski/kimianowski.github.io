@@ -36,7 +36,7 @@ plugins:
 
 domain: "kimianowski.github.io"
 url: "https://kimianowski.github.io"
-baseurl: "/docs/"
+#baseurl: "/docs/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
